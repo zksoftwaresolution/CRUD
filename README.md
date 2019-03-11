@@ -1,2 +1,21 @@
 # CRUD
-A simple record management system to store information using php/msqli object oriented. Enter your data and it'll be save to database, now you can perform multiple action on this data, you can update and delete this record.
+A simplete school management system. This is a web application build using php/mysqli. You can use this application if you own a school along different branches. You can assign a unique id to a brnaches.
+#
+#
+#
+#
+#
+# Structure 
+#              Admin
+                 |
+      |-------------------|
+          Vice-Principle     
+                 |
+      |-------------------|
+              Recruiter         
+                 |
+      |-------------------|
+ Class-Codeigniter   Class-Teacher
+      |
+Student-Datad
+
